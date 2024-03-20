@@ -1,5 +1,5 @@
-<H3>D.R.Vinuthna</H3>
-<H3>212221230017</H3>
+<H3>Name : D.R.Vinuthna</H3>
+<H3>Register number : 212221230017</H3>
 <H3>EX. NO.4</H3>
 <H3>DATE: 19.03.24</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
